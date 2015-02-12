@@ -1,0 +1,16 @@
+C:\Users\rtretyak\Source\Repos\parcesites\ParseSites\bin\Debug\ParseSites.exe.config
+C:\Users\rtretyak\Source\Repos\parcesites\ParseSites\bin\Debug\ParseSites.exe
+C:\Users\rtretyak\Source\Repos\parcesites\ParseSites\bin\Debug\ParseSites.pdb
+C:\Users\rtretyak\Source\Repos\parcesites\ParseSites\bin\Debug\HtmlAgilityPack.dll
+C:\Users\rtretyak\Source\Repos\parcesites\ParseSites\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\rtretyak\Source\Repos\parcesites\ParseSites\bin\Debug\HtmlAgilityPack.xml
+C:\Users\rtretyak\Source\Repos\parcesites\ParseSites\obj\Debug\ParseSites.csprojResolveAssemblyReference.cache
+C:\Users\rtretyak\Source\Repos\parcesites\ParseSites\obj\Debug\ParseSites.exe
+C:\Users\rtretyak\Source\Repos\parcesites\ParseSites\obj\Debug\ParseSites.pdb
+C:\Users\rtretyak\Source\Repos\parcesites\ParseSites\bin\Debug\EntityFramework.dll
+C:\Users\rtretyak\Source\Repos\parcesites\ParseSites\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rtretyak\Source\Repos\parcesites\ParseSites\bin\Debug\EntityFramework.xml
+C:\Users\rtretyak\Source\Repos\parcesites\ParseSites\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rtretyak\Source\Repos\parcesites\ParseSites\obj\Debug\ParseSites.Migrations.addVariable2.resources
+C:\Users\rtretyak\Source\Repos\parcesites\ParseSites\obj\Debug\ParseSites.csproj.GenerateResource.Cache
+C:\Users\rtretyak\Source\Repos\parcesites\ParseSites\obj\Debug\ParseSites.Migrations.changeId.resources
